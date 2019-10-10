@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\newrepo\\repository\\arifmetika\\Arifmetika\\Arifmetika\\Arifmetika.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Lesson\\arifmetika\\Arifmetika\\Arifmetika\\Arifmetika.csproj",
       "projectName": "Arifmetika",
-      "projectPath": "C:\\Users\\User\\source\\repos\\newrepo\\repository\\arifmetika\\Arifmetika\\Arifmetika\\Arifmetika.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Lesson\\arifmetika\\Arifmetika\\Arifmetika\\Arifmetika.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\newrepo\\repository\\arifmetika\\Arifmetika\\Arifmetika\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Lesson\\arifmetika\\Arifmetika\\Arifmetika\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
