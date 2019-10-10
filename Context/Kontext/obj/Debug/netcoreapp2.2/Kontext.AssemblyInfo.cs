@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Konsol")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Kontext")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Konsol")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Konsol")]
+[assembly: System.Reflection.AssemblyProductAttribute("Kontext")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Kontext")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

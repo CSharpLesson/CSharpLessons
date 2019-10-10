@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\newrepo\\repository\\Konsol\\Konsol\\Konsol\\Konsol.csproj",
-      "projectName": "Konsol",
-      "projectPath": "C:\\Users\\User\\source\\repos\\newrepo\\repository\\Konsol\\Konsol\\Konsol\\Konsol.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Lesson\\Kontext\\Kontext\\Kontext.csproj",
+      "projectName": "Kontext",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Lesson\\Kontext\\Kontext\\Kontext.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\newrepo\\repository\\Konsol\\Konsol\\Konsol\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Lesson\\Kontext\\Kontext\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
