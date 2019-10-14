@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\foeach\\foeach\\foeach.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Lesson\\Foeach\\foeach\\foeach.csproj",
       "projectName": "foeach",
-      "projectPath": "C:\\Users\\User\\source\\repos\\foeach\\foeach\\foeach.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Lesson\\Foeach\\foeach\\foeach.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\foeach\\foeach\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Lesson\\Foeach\\foeach\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
