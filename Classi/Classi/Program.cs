@@ -20,6 +20,8 @@ namespace Classi
             sad.GetInfo();
             sam.GetInfo();
             bob.GetInfo();
+            
+            
         }
     }
     class Person
