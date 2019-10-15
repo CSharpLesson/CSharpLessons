@@ -49,9 +49,19 @@ namespace StaticModificator
             Console.WriteLine(account2.totalSum);   // 1300
             Account.MinSum = 560;
             decimal result = Account.GetSum(1000, 10, 5);
+            User user1 = new User(); // здесь сработает статический конструктор
+            User user2 = new User();
             Console.WriteLine(result);
 
             Console.ReadKey();
         }
     }
+    class User
+    {
+        static User()
+        {
+            Console.WriteLine("Создан первый пользователь");
+        }
+    }
+   
 }
