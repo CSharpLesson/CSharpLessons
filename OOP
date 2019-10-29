@@ -6,4 +6,4 @@ OOP 4 ga bo'linadi
 Inkapsulatsiya - Bu malumotlarni chegaralash; bunda privet protected public internal protected internal ishlatiladi
 Nasledviniya -  Bu takror kodni yozishga yechim;
 Polimarfizm - prergruzka metodov;
-Abstraktsiya - 
+Abstraktsiya -описывается левым и верхним правым изображениями кошки. Хирург и старушка разработали (или визуализировали) животное по-разному. Таким же образом, вы должны поместить различные функции в класс Cat, в зависимости от потребности приложения. У каждого кота есть печень, мочевой пузырь, сердце и легкие, но если вам нужно, чтобы ваша кошка только "мурлыкала", вы отрисуете свою прикладную кошку на дизайн сверху-слева, а не на верхний правый
